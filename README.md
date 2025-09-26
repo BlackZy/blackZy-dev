@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackZy&layout=compact&theme=radical)
+![BlackZy's Stats](https://github-readme-stats.vercel.app/api?username=BlackZy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
